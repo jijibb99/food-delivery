@@ -1,5 +1,6 @@
 CMA 템플릿 이미지
 
+![bear](https://user-images.githubusercontent.com/67882900/102155393-d436c680-3ebe-11eb-830d-2707e056af5c.PNG)
 ![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
 
 # 예제 - 음식배달
